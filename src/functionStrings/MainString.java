@@ -20,6 +20,7 @@ public class MainString {
 		System.out.println("Substring(2): " +  s04);
 		System.out.println("Substring(2,9): " +  s05);
 		System.out.println("Substring(a,x): " +  s06);
+		System.out.println("Testando novo commit");
 		
 	}
 
